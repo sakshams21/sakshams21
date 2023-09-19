@@ -37,7 +37,7 @@ Feel free to explore my repositories to see more of my work.
 You can get in touch with me on through other means as well:
 
 - 📧 Email: sakshams21@gmail.com
-- 💼 LinkedIn: [Saksham](https://www.linkedin.com/in/sakshams21/)
+- 💼 LinkedIn: [sakshams21](https://www.linkedin.com/in/sakshams21/)
 
 Let's connect and discuss game development, share ideas, or collaborate on exciting projects. I'm always open to new opportunities and collaborations!
 
