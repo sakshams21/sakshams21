@@ -17,7 +17,8 @@ Here are some of the projects I've worked on:
 - [🎲 2048](https://github.com/sakshams21/Challenge-2048): This is a personal Project to challenge myself to make this game using my own logic.
 - [🏎️ Car Handling Prototype](https://github.com/sakshams21/CarDrivingPrototype): My attempt at creating Arcade car physics in Unity.
 - [🐈 Rengar Prototype](https://github.com/sakshams21/RengarPrototype):  My attempt at creating Rengar Mechanics in Unity.
-- [🚀 Retro Space Shooter](https://github.com/sakshams21/Space_Retro_Shooter): My attemp at creating Space shooter in Unity.
+- [🚀 Retro Space Shooter](https://github.com/sakshams21/Space_Retro_Shooter): My attempt at creating Space shooter in Unity.
+- [🔫 Top Down Shooter](https://github.com/sakshams21/TopDownShooter): Top down shooter with wave based clearance challenge.
 - and many more prototype in works
 
 Feel free to explore my repositories to see more of my work.
@@ -39,6 +40,7 @@ You can get in touch with me on through other means as well:
 
 - 📧 Email: sakshams21@gmail.com
 - 💼 LinkedIn: [sakshams21](https://www.linkedin.com/in/sakshams21/)
+- 📄 Resume:[Resume Link](https://drive.google.com/file/d/1wUtS-eK_ucPcjlbTWrp_1wpTpx355CG9/view?usp=drive_link)
 
 Let's connect and discuss game development, share ideas, or collaborate on exciting projects. I'm always open to new opportunities and collaborations!
 
