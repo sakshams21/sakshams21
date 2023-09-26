@@ -10,6 +10,8 @@ Welcome to my GitHub profile! I'm a passionate Unity Game Developer with over 3 
 
 - 💡 Problem Solving: I thrive on overcoming challenges and finding efficient solutions, whether it's optimizing game performance or debugging complex issues.
 
+- 📖 Continuous Learning: In an ever-evolving field like game development, I am committed to staying updated on the latest industry trends and technologies. I actively seek opportunities for professional growth and enjoy sharing knowledge with colleagues.
+
 ## 🚀 My Projects
 
 Here are some of the projects I've worked on:
