@@ -1,4 +1,4 @@
-# Hello, I'm [Saksham Kumar] 🎮
+# Hello, I'm Saksham Kumar 🎮
 
 Welcome to my GitHub profile! I'm a passionate Unity Game Developer with over 3 years of experience, dedicated to crafting immersive and engaging gaming experiences. My journey in the world of game development has been an exciting one, filled with creativity and innovation.
 
