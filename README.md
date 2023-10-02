@@ -42,7 +42,7 @@ You can get in touch with me on through other means as well:
 
 - 📧 Email: sakshams21@gmail.com
 - 💼 LinkedIn: [sakshams21](https://www.linkedin.com/in/sakshams21/)
-- 📄 Resume:[Resume Link](https://drive.google.com/file/d/1wUtS-eK_ucPcjlbTWrp_1wpTpx355CG9/view?usp=drive_link)
+- 📄 Resume:[Resume Link](https://drive.google.com/file/d/1N14o45GrK-sS8GO6po2Gcx7H1r4pgy_s/view?usp=sharing)
 
 Let's connect and discuss game development, share ideas, or collaborate on exciting projects. I'm always open to new opportunities and collaborations!
 
